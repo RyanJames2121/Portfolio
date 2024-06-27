@@ -24,6 +24,6 @@
         <li>Manage project timelines and deliverables.</li>
       </ul>
     </div>
-    <img src="Images/download2.jpg" alt="Lead Software Engineer" style="max-width: 75px; margin-left: 10px;">
+    <img src="Images/datava_logo.jpg" alt="Lead Software Engineer" style="max-width: 75px; margin-left: 10px;">
   </div>
 </div>
