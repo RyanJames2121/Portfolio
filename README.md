@@ -13,7 +13,7 @@
         <li>Collaborate with cross-functional teams to implement data-driven solutions.</li>
       </ul>
     </div>
-    <img src="Images/download.jpg" alt="Senior Data Scientist" style="max-width: 35px; margin-left: 10px;">
+    <img src="Images/download.jpg" alt="Senior Data Scientist" style="max-width: 75px; margin-left: 10px;">
   </div>
   <div style="width: 45%; text-align: left; margin-left: 5%; display: flex; align-items: flex-start;">
     <div>
