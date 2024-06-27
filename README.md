@@ -20,7 +20,7 @@
   </div>
   <div style="width: 45%; text-align: left; margin-left: 5%; display: flex; align-items: flex-start;">
     <div>
-      <h2>Job Title: Lead Software Engineer</h2>
+      <h2>Business Intelligence Analyst</h2>
       <ul style="list-style-type: disc;">
         <li>Design and implement scalable software solutions.</li>
         <li>Mentor junior developers and conduct code reviews.</li>
