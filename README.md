@@ -13,7 +13,6 @@
         <li>Write git commands to update environment with production, manage merge conflicts, and commit local/remote branch changes</li>
         <li>Write and debug PHP code to handle API requests and properly convey returned information via string parsing into web page component</li>
         <li>Write CSS and XML code to improve UI presentation of HTML components</li>
-        
       </ul>
     </div>
     <img src="Images/download.jpg" alt="Senior Data Scientist" style="max-width: 75px; margin-left: 10px;">
