@@ -15,7 +15,7 @@
         <li>Write CSS and XML code to improve UI presentation of HTML components</li>
       </ul>
     </div>
-    <img src="Images/download.jpg" alt="Senior Data Scientist" style="max-width: 300px; margin-left: 10px;">
+    <img src="Images/datava_logo.jpg" alt="Senior Data Scientist" style="max-width: 300px; margin-left: 10px;">
   </div>
   <div style="width: 45%; text-align: left; margin-left: 5%; display: flex; align-items: flex-start;">
     <div>
@@ -26,7 +26,7 @@
         <li>Manage project timelines and deliverables.</li>
       </ul>
     </div>
-    <img src="Images/datava_logo.jpg" alt="Lead Software Engineer" style="max-width: 75px; margin-left: 10px;">
+    <img src="Images/download.jpg" alt="Lead Software Engineer" style="max-width: 75px; margin-left: 10px;">
   </div>
 </div>
 
