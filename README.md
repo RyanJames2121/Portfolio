@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Name</h1>
+  <h1>Ryan James</h1>
   <p>Data Science - Software Engineering</p>
 </div>
 
