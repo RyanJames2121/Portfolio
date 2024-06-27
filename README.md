@@ -13,7 +13,7 @@
         <li>Write git commands to update environment with production, manage merge conflicts, and commit local/remote branch changes</li>
       </ul>
     </div>
-    <img src="Images/datava_logo.jpg" alt="Senior Data Scientist" style="max-width: 300px; margin-left: 10px;">
+    <img src="Images/datava_logo.jpg" alt="Senior Data Scientist" style="max-width: 75px; margin-left: 10px;">
   </div>
   <div style="width: 45%; text-align: left; margin-left: 5%; display: flex; align-items: flex-start;">
     <div>
